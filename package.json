@@ -1,0 +1,26 @@
+{
+  "name": "mepriyo",
+  "version": "1.0.0",
+  "description": "My Personal Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DragoSupremo/mepriyo.git"
+  },
+  "keywords": [
+    "Resume"
+  ],
+  "author": "Priyam Dutta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DragoSupremo/mepriyo/issues"
+  },
+  "homepage": "https://github.com/DragoSupremo/mepriyo#readme",
+  "dependencies": {
+    "ejs": "^2.5.8",
+    "express": "^4.16.3"
+  }
+}
